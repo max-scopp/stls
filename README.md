@@ -13,3 +13,8 @@ https://www.amazon.de/gp/product/B078B5BWDF
 
 It intended to dangle off 2/3 of the rail. It's not ideal, but works well enough.
 For a stronger part, use `Generic 80 LED PSU Brackets.stl`
+
+## QuinLED Dig Quad v3
+
+DIN3 Bracket holder for LED Controller, see:
+https://quinled.info/pre-assembled-quinled-dig-quad/
